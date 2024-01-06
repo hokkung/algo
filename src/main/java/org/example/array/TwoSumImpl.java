@@ -15,7 +15,9 @@ public class TwoSumImpl implements TwoSum {
             int diff = target - nums[i];
             Integer index = diffToIndex.get(diff);
             if (index != null) {
-                return new int[] {i, index};
+                return new int[] {index, i};
+            } else {
+                diffToIndex.put(nums[i], i);
             }
         }
 
