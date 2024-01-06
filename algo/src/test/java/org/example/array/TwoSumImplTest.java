@@ -1,6 +1,7 @@
 package org.example.array;
 
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -16,6 +17,6 @@ class TwoSumImplTest {
     void execute() {
         int[] result = underTest.twoSum(new int[] {2,7,11,15}, 9);
 
-
+        Assertions.assertArrayEquals(new int[] {0, 1}, result);
     }
 }
