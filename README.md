@@ -2,4 +2,4 @@
 
 ### Arrays
  - Two Sum
-
+ - Contains Duplicate
