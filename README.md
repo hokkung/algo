@@ -1,9 +1,13 @@
 # Data Structure and Algorithm project
 
 ### Arrays
- - Two Sum
- - Contains Duplicate
+ - [Easy]
+   - Two Sum
+   - Contains Duplicate
+ - [Medium]
+   - Group Anagrams
 
 
 ### Slide Window
- - Best Time To Buy and Sell Stock
+- [Easy]
+  - Best Time To Buy and Sell Stock
