@@ -1,14 +1,15 @@
 # Data Structure and Algorithm project
 
 ### Arrays
- - [Easy]
-   - Two Sum
-   - Contains Duplicate
-   - Valid Anagram
- - [Medium]
-   - Group Anagrams
-
+| Name | Mode   |
+|------|--------|
+|Two Sum | Easy   |
+|Contains Duplicate | Easy   |
+|Valid Anagram | Easy   |
+|Group Anagrams | Medium |
+ 
 
 ### Slide Window
-- [Easy]
-  - Best Time To Buy and Sell Stock
+| Name | Mode   |
+|------|--------|
+|  Best Time To Buy and Sell Stock | Easy |
