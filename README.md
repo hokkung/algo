@@ -4,6 +4,7 @@
  - [Easy]
    - Two Sum
    - Contains Duplicate
+   - Valid Anagram
  - [Medium]
    - Group Anagrams
 
