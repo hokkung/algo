@@ -13,3 +13,8 @@
 | Name | Mode   |
 |------|--------|
 |  Best Time To Buy and Sell Stock | Easy |
+
+### Stack
+| Name             | Mode   |
+|------------------|--------|
+| Valid Paretheses | Easy |
