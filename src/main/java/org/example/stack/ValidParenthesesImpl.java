@@ -10,7 +10,7 @@ public class ValidParenthesesImpl implements ValidParentheses {
         parentheses.put("]", "[");
         parentheses.put(")", "(");
 
-        List<String> stack = new ArrayList<>(s.length());
+        Stack<String> stack = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
             String cur = s.substring(i, i+1);
             String leftSide = parentheses.get(cur);
