@@ -15,6 +15,6 @@
 |  Best Time To Buy and Sell Stock | Easy |
 
 ### Stack
-| Name             | Mode   |
-|------------------|--------|
-| Valid Paretheses | Easy |
+| Name              | Mode   |
+|-------------------|--------|
+| Valid Parentheses | Easy |
