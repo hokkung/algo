@@ -21,3 +21,10 @@ ___
 | Name              | Mode   |
 |-------------------|--------|
 | Valid Parentheses | Easy |
+
+___
+
+### Binary Search
+| Name          | Mode   |
+|---------------|--------|
+| Binary Search | Easy |
