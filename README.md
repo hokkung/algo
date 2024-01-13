@@ -28,3 +28,11 @@ ___
 | Name          | Mode   |
 |---------------|--------|
 | Binary Search | Easy |
+
+
+___
+
+### Linked List
+| Name                | Mode   |
+|---------------------|--------|
+| Reverse Linked List | Easy |
