@@ -1,12 +1,13 @@
 # Data Structure and Algorithm project
 
 ### Arrays
-| Name | Mode   |
-|------|--------|
-|Two Sum | Easy   |
-|Contains Duplicate | Easy   |
-|Valid Anagram | Easy   |
-|Group Anagrams | Medium |
+| Name               | Mode   |
+|--------------------|--------|
+| Two Sum            | Easy   |
+| Contains Duplicate | Easy   |
+| Valid Anagram      | Easy   |
+| Group Anagrams     | Medium |
+| Maximum Sub Array  | Medium |
  
 ___
 
