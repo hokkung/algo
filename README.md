@@ -22,6 +22,7 @@ ___
 | Name              | Mode   |
 |-------------------|--------|
 | Valid Parentheses | Easy |
+| Min Stack | Medium |
 
 ___
 
