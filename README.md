@@ -44,4 +44,5 @@ ___
 ### Two Pointers
 | Name       | Mode   |
 |------------|--------|
+| Valid Palindrome | Easy   |
 | Two Sum II | Medium |
