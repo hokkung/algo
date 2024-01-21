@@ -6,6 +6,7 @@
 | Two Sum            | Easy   |
 | Contains Duplicate | Easy   |
 | Valid Anagram      | Easy   |
+| Roman To Integer   | Easy   |
 | Group Anagrams     | Medium |
 | Maximum Sub Array  | Medium |
  
