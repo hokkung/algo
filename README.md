@@ -35,9 +35,10 @@ ___
 ___
 
 ### Linked List
-| Name                | Mode   |
-|---------------------|--------|
-| Reverse Linked List | Easy |
+| Name                 | Mode   |
+|----------------------|--------|
+| Reverse Linked List  | Easy |
+| Remove Dup From List | Easy |
 
 
 ---
