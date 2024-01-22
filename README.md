@@ -44,7 +44,8 @@ ___
 
 ---
 ### Two Pointers
-| Name       | Mode   |
-|------------|--------|
+| Name             | Mode   |
+|------------------|--------|
 | Valid Palindrome | Easy   |
-| Two Sum II | Medium |
+| Reverse String   | Easy   |
+| Two Sum II       | Medium |
