@@ -20,10 +20,11 @@ ___
 ___
 
 ### Stack
-| Name              | Mode   |
-|-------------------|--------|
-| Valid Parentheses | Easy |
-| Min Stack | Medium |
+| Name                             | Mode   |
+|----------------------------------|--------|
+| Valid Parentheses                | Easy |
+| Min Stack                        | Medium |
+| Evaluate Reverse Polish Notation | Medium |
 
 ___
 
