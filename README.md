@@ -37,10 +37,11 @@ ___
 ___
 
 ### Linked List
-| Name                 | Mode   |
-|----------------------|--------|
-| Reverse Linked List  | Easy |
-| Remove Dup From List | Easy |
+| Name                  | Mode   |
+|-----------------------|--------|
+| Reverse Linked List   | Easy |
+| Remove Dup From List  | Easy |
+| Merge Two Sorted List | Easy |
 
 
 ---
