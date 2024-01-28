@@ -52,3 +52,10 @@ ___
 | Reverse String    | Easy   |
 | First Bad Version | Easy   |
 | Two Sum II        | Medium |
+
+---
+### Binary Tree
+| Name               | Mode   |
+|--------------------|--------|
+| Invert Binary Tree | Easy   |
+| Preorder Traversal | Easy   |
