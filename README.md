@@ -1,14 +1,15 @@
 # Data Structure and Algorithm project
 
 ### Arrays
-| Name               | Mode   |
-|--------------------|--------|
-| Two Sum            | Easy   |
-| Contains Duplicate | Easy   |
-| Valid Anagram      | Easy   |
-| Roman To Integer   | Easy   |
-| Group Anagrams     | Medium |
-| Maximum Sub Array  | Medium |
+| Name                  | Mode   |
+|-----------------------|--------|
+| Two Sum               | Easy   |
+| Contains Duplicate    | Easy   |
+| Valid Anagram         | Easy   |
+| Roman To Integer      | Easy   |
+| Longest Common Prefix | Easy   |
+| Group Anagrams        | Medium |
+| Maximum Sub Array     | Medium |
  
 ___
 
