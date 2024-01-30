@@ -8,6 +8,7 @@
 | Valid Anagram         | Easy   |
 | Roman To Integer      | Easy   |
 | Longest Common Prefix | Easy   |
+| Majority Element      | Easy   |
 | Group Anagrams        | Medium |
 | Maximum Sub Array     | Medium |
  
