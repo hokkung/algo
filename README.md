@@ -1,4 +1,4 @@
-# Data Structure and Algorithm project
+# Data Structure and Algorithm
 
 ### Arrays
 | Name                  | Mode   |
