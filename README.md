@@ -61,3 +61,4 @@ ___
 |--------------------|--------|
 | Invert Binary Tree | Easy   |
 | Preorder Traversal | Easy   |
+| Is Same Tree       | Easy   |
