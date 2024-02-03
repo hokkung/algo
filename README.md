@@ -31,9 +31,10 @@ ___
 ___
 
 ### Binary Search
-| Name          | Mode   |
-|---------------|--------|
-| Binary Search | Easy |
+| Name             | Mode   |
+|------------------|--------|
+| Binary Search    | Easy   |
+| Search 2D Matrix | Medium |
 
 
 ___
