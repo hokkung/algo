@@ -55,6 +55,7 @@ ___
 | Reverse String    | Easy   |
 | First Bad Version | Easy   |
 | Two Sum II        | Medium |
+| Rotate Image      | Medium |
 
 ---
 ### Binary Tree
