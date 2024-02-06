@@ -27,6 +27,7 @@ ___
 | Valid Parentheses                | Easy |
 | Min Stack                        | Medium |
 | Evaluate Reverse Polish Notation | Medium |
+| Generate Parentheses             | Medium |
 
 ___
 
