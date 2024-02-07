@@ -56,6 +56,7 @@ ___
 | Valid Palindrome  | Easy   |
 | Reverse String    | Easy   |
 | First Bad Version | Easy   |
+| Palindrome Number | Easy   |
 | Two Sum II        | Medium |
 | Rotate Image      | Medium |
 
