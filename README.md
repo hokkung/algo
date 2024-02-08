@@ -57,6 +57,7 @@ ___
 | Reverse String    | Easy   |
 | First Bad Version | Easy   |
 | Palindrome Number | Easy   |
+| Remove Element    | Easy   |
 | Two Sum II        | Medium |
 | Rotate Image      | Medium |
 
