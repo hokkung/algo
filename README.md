@@ -51,15 +51,16 @@ ___
 
 ---
 ### Two Pointers
-| Name              | Mode   |
-|-------------------|--------|
-| Valid Palindrome  | Easy   |
-| Reverse String    | Easy   |
-| First Bad Version | Easy   |
-| Palindrome Number | Easy   |
-| Remove Element    | Easy   |
-| Two Sum II        | Medium |
-| Rotate Image      | Medium |
+| Name                    | Mode   |
+|-------------------------|--------|
+| Valid Palindrome        | Easy   |
+| Reverse String          | Easy   |
+| First Bad Version       | Easy   |
+| Palindrome Number       | Easy   |
+| Remove Element          | Easy   |
+| First Occurrence In Str | Easy   |
+| Two Sum II              | Medium |
+| Rotate Image            | Medium |
 
 ---
 ### Binary Tree
