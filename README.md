@@ -59,6 +59,7 @@ ___
 | Palindrome Number       | Easy   |
 | Remove Element          | Easy   |
 | First Occurrence In Str | Easy   |
+| Search Insert Position  | Easy   |
 | Two Sum II              | Medium |
 | Rotate Image            | Medium |
 
