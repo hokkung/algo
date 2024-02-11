@@ -9,6 +9,7 @@
 | Roman To Integer      | Easy   |
 | Longest Common Prefix | Easy   |
 | Majority Element      | Easy   |
+| Length Of Last Word   | Easy   |
 | Group Anagrams        | Medium |
 | Maximum Sub Array     | Medium |
  
