@@ -10,6 +10,7 @@
 | Longest Common Prefix | Easy   |
 | Majority Element      | Easy   |
 | Length Of Last Word   | Easy   |
+| Plus One              | Easy   |
 | Group Anagrams        | Medium |
 | Maximum Sub Array     | Medium |
  
