@@ -73,3 +73,10 @@ ___
 | Preorder Traversal | Easy   |
 | Is Same Tree       | Easy   |
 | Maximum Depth OfTree | Easy   |
+
+---
+
+### Heap
+| Name                         | Mode   |
+|------------------------------|--------|
+| Kth Largest Element In Steam | Easy   |
