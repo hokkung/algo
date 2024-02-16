@@ -13,7 +13,7 @@
 | Plus One              | Easy   |
 | Group Anagrams        | Medium |
 | Maximum Sub Array     | Medium |
- 
+
 ___
 
 ### Slide Window
@@ -39,7 +39,6 @@ ___
 | Binary Search    | Easy   |
 | Search 2D Matrix | Medium |
 
-
 ___
 
 ### Linked List
@@ -50,8 +49,8 @@ ___
 | Merge Two Sorted List | Easy |
 | Linked List Cycle     | Easy |
 
-
 ---
+
 ### Two Pointers
 | Name                    | Mode   |
 |-------------------------|--------|
@@ -66,6 +65,7 @@ ___
 | Rotate Image            | Medium |
 
 ---
+
 ### Binary Tree
 | Name               | Mode   |
 |--------------------|--------|
