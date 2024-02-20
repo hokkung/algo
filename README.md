@@ -80,3 +80,8 @@ ___
 | Name                         | Mode   |
 |------------------------------|--------|
 | Kth Largest Element In Steam | Easy   |
+
+### Tree
+| Name | Mode   |
+|------|--------|
+| Tri  | Meduim |
