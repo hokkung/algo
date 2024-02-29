@@ -11,6 +11,7 @@
 | Majority Element      | Easy   |
 | Length Of Last Word   | Easy   |
 | Plus One              | Easy   |
+| Merge Sort            | Easy   |
 | Group Anagrams        | Medium |
 | Maximum Sub Array     | Medium |
 
